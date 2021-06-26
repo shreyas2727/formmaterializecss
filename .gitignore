@@ -1,0 +1,10 @@
+venv/*
+myvenv/*
+.idea/*
+songs/__pycache__/
+.vscode/
+formproject/__pycache__/
+songs/migrations/
+preferences/migrations/
+preferences/__pycache__/
+db.sqlite3
